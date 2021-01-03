@@ -1,7 +1,7 @@
 # 消息文件
 
 #### Description
-小项目用于学习
+聊天软件，实现频繁发送消息
 
 #### Software Architecture
 Software architecture description
